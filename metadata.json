@@ -1,0 +1,18 @@
+{
+  "name": "Pro Trading Education Platform",
+  "description": "A professional, detailed, and responsive multi-page website for an online trading education platform, now featuring dedicated course pages with extended content, a dark theme, relevant course images, and subtle sparkle animations on key elements, built with Tailwind CSS.",
+  "entry": "index.html",
+  "multiPage": true,
+  "files": [
+    "course-advanced-day-trading.html",
+    "course-algo-trading.html",
+    "course-chart-patterns.html",
+    "course-intro-trading.html",
+    "course-risk-management.html",
+    "course-trading-psychology.html",
+    "index.html",
+    "metadata.json"
+  ],
+  "tailwind": { "source": "play-cdn" },
+  "generatedAt": "2024-07-30T12:34:56Z"
+}
